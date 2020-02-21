@@ -1,0 +1,2 @@
+1、配置python环境
+2、安装airtest自动化测试工具（下载地址：http://airtest.netease.com/）
